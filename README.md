@@ -12,6 +12,6 @@ Finish it and select a table after then there is impotant part
 
 1-import - It means when table will update the charts will not update
 
-2-data query - It means when table will update in snowflake simultaneously update in power bi with the help od data pieping . 
+2-data query - It means when table will update in snowflake simultaneously update in power bi with the help  data pieping . 
 
 
