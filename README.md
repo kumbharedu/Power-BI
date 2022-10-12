@@ -14,4 +14,4 @@ Finish it and select a table after then there is impotant part
 
 2-data query - It means when table will update in snowflake simultaneously update in power bi with the help  data pieping . 
 
-
+There is an advanced option while putting data in that where we can give query only that much data will load in power bi.
